@@ -33,6 +33,8 @@
 					<ul>
 						<li>Jquery</li>
 						<li>Jquery UI</li>
+						<li>Popper</li>
+    					<li>Tether</li>
 					</ul>
 					<hr>
 				</li>
