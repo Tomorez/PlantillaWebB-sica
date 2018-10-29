@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Proyecto vacío</title>
+	<title>Plantilla web básica</title>
 	<link rel="stylesheet" type="text/css" href="CSS/bs4/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="CSS/font-awesome.css">
 	<link rel="stylesheet" type="text/css" href="CSS/jquery-ui.css">
@@ -18,7 +18,7 @@
 
 	<div class="container">
 		<div class="jumbotron m-5">
-			<h1>New Project Template</h1><hr>
+			<h1>Plantilla web básica</h1><hr>
 			<div class="row pt-1">
 			<p class="col-12 ">La plantilla incluye los siguientes recursos. </p>
 			<ul class="col-12 ">
